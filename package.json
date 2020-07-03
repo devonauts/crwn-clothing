@@ -11,7 +11,8 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
-    "sass": "^1.26.9"
+    "sass": "^1.26.9",
+    "yarn": "^1.22.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:devonauts/crwn-clothing.git",
+  "author": "Michael Urresta <michaelurrestap@hotmail.com>",
+  "license": "MIT"
 }
